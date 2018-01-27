@@ -83,6 +83,7 @@ using namespace std;
 		cout<<"##################################################"<<endl;
 		do{
 		
+			
 			cout<<"Enter Calculator For c , Table For t ,Percentage For p"<<endl;
 		cin>>ch;
 			if(ch== 't')
