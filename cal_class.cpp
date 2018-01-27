@@ -5,8 +5,6 @@ using namespace std;
 		public:
 			double a , b ;
 	
-	
-	
 	void setdata()
 	{
 		cout<<"Enter First Operand"<<endl;
